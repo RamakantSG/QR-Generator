@@ -1,4 +1,4 @@
-QR Code Generator
+<h1>QR Code Generator</h1>
 This is a QR Code Generator built using HTML, CSS, and JavaScript. It allows users to input text or URLs and generate customizable QR codes. The tool offers options for adjusting the QR code's background color, text color, and even adding a logo to the QR code. After generating the QR code, users can download the image for further use.
 
 Features
